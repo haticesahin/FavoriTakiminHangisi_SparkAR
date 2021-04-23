@@ -1,4 +1,4 @@
-# Favori Takimin Hangisi?
+# Favori Takımın Hangisi?
 
 ![GitHub Logo](/spor.jfif)
 
